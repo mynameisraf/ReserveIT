@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "pcName": "VIP Rig #01 (Monster Station)",
+      "zone": "VIP Lounge",
+      "cpu": "Intel Core i9-14900K (24 Cores, 6.0 GHz Boost)",
+      "gpu": "NVIDIA GeForce RTX 4090 24GB GDDR6X",
+      "ram": "64GB DDR5 6000MHz RGB",
+      "monitor": "27\" ASUS ROG Swift 2K 360Hz OLED (0.03ms)",
+      "peripherals": "Razer Huntsman V3 Pro TKL • DeathAdder V3 Pro • BlackShark V2 Pro",
+      "rate": "₱100 / hr",
+      "isAvailable": true,
+      "games": [
+        "Cyberpunk 2077",
+        "Valorant",
+        "CS2",
+        "Black Myth: Wukong",
+        "Apex Legends"
+      ]
+    },
+    {
+      "id": 2,
+      "pcName": "Esports Rig #05 (Pro Tournament)",
+      "zone": "Esports Arena",
+      "cpu": "AMD Ryzen 7 7800X3D 3D V-Cache",
+      "gpu": "NVIDIA GeForce RTX 4070 Ti Super 16GB",
+      "ram": "32GB DDR5 5600MHz Kingston Fury",
+      "monitor": "24.5\" ZOWIE XL2546K 240Hz DyAc+",
+      "peripherals": "Logitech G Pro X Superlight 2 • G Pro X TKL • G Pro X Headset",
+      "rate": "₱60 / hr",
+      "isAvailable": true,
+      "games": [
+        "Valorant",
+        "CS2",
+        "Dota 2",
+        "League of Legends",
+        "Apex Legends"
+      ]
+    },
+    {
+      "id": 3,
+      "pcName": "Streamer Pod #08 (Creator Suite)",
+      "zone": "Streaming Studio",
+      "cpu": "AMD Ryzen 9 7950X (16 Cores, 32 Threads)",
+      "gpu": "NVIDIA GeForce RTX 4080 Super 16GB",
+      "ram": "64GB DDR5 6000MHz",
+      "monitor": "Dual 27\" MSI 240Hz Fast IPS Displays",
+      "peripherals": "Shure SM7B Mic • Elgato 4K60 Pro • Sony Alpha ZV-E10 Webcam",
+      "rate": "₱80 / hr",
+      "isAvailable": false,
+      "games": [
+        "Streaming Setup",
+        "OBS Studio",
+        "DaVinci Resolve",
+        "Valorant",
+        "GTA V"
+      ]
+    },
+    {
+      "id": 4,
+      "pcName": "Standard Rig #12 (Battle Station)",
+      "zone": "Regular Gaming Zone",
+      "cpu": "Intel Core i5-13400F (10 Cores, 4.6 GHz)",
+      "gpu": "NVIDIA GeForce RTX 3060 12GB",
+      "ram": "16GB DDR4 3200MHz Corsair Vengeance",
+      "monitor": "24\" ASUS TUF Gaming 165Hz IPS (1ms)",
+      "peripherals": "Redragon Kumara K552 RGB • SteelSeries Rival 3 • Havit 7.1 Headset",
+      "rate": "₱35 / hr",
+      "isAvailable": true,
+      "games": [
+        "Valorant",
+        "Dota 2",
+        "GTA V",
+        "Roblox",
+        "Left 4 Dead 2"
+      ]
+    },
+    {
+      "id": 5,
+      "pcName": "Budget Rig #20 (Chill Corner)",
+      "zone": "Chill Corner",
+      "cpu": "Intel Core i3-12100F (4 Cores, 4.3 GHz)",
+      "gpu": "NVIDIA GeForce GTX 1650 Super 4GB",
+      "ram": "8GB DDR4 2666MHz Kingston",
+      "monitor": "21.5\" LG FHD 75Hz IPS",
+      "peripherals": "Tecware Phantom RGB • A4Tech Bloody A70 • Fantech HG11 Headset",
+      "rate": "₱20 / hr",
+      "isAvailable": true,
+      "games": [
+        "Roblox",
+        "Minecraft",
+        "Among Us",
+        "League of Legends",
+        "Plants vs Zombies"
+      ]
+    }
+  ]
+}
